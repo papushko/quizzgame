@@ -1,30 +1,30 @@
 * 1. Grand Central Terminal, Park Avenue, New York is the world's.
+*
+*  A.largest railway station
+*  B.highest railway station
+*  C.longest railway station
+*  D.None of the above
 
-* A.largest railway station
-* B.highest railway station
-* C.longest railway station
-* D.None of the above
-***Answer:A
+/Answer:A
+
+#2. Entomology is the science that studies.
+#
+#  A.	Behavior of human beings
+#  B.	Insects
+#  C.	The origin and history of technical and scientific terms
+#  D.	The formation of rocks
+
+//Answer:B
 
 
-#2 Entomology is the science that studies.
+@3. Eritrea, which became the 182nd member of the UN in 1993, is in the continent of.
 
-#A.	Behavior of human beings
-#B.	Insects
-#C.	The origin and history of technical and scientific terms
-#D.	The formation of rocks
+@A.	Asia
+@B.	Africa
+@C.	Europe
+@D.	Australia
 
-##
-
-
-3. Eritrea, which became the 182nd member of the UN in 1993, is in the continent of.
-
-A.	Asia
-B.	Africa
-C.	Europe
-D.	Australia
-
-Answer3: 
+///Answer:B
 
 4 Garampani sanctuary is located at
 
@@ -32,7 +32,8 @@ A.	Junagarh, Gujarat
 B.	Diphu, Assam
 C.	Kohima, Nagaland
 D.	Gangtok, Sikkim
-Answer4: 
+
+Answer:B
 
 
 5 For which of the following disciplines is Nobel Prize awarded?
@@ -42,7 +43,7 @@ B.	Physiology or Medicine
 C.	Literature, Peace and Economics
 D.	All of the above
 
-Answer:
+Answer:D
 
 
 6. 	Hitler party which came into power in 1933 is known as
@@ -52,6 +53,6 @@ B.	Nazi Party
 C.	Ku-Klux-Klan
 D.	Democratic Party
 
-Answer: 
+Answer: B
 
 

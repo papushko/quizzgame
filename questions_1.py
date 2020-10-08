@@ -1,15 +1,17 @@
-file_name = open('questions.final')
+questions_file = open('questions.final.txt')
+score = 0
+total = 6
 
 
-for line in file_name:
+for line in questions_file:
     if line.startswith('*'):
-        word = line.split(1:)
-        
-
-
-
-        
-#namesplit=name.split(':')[1]  
-    
+        print(line[1:])
+    if line.startswith('//'):
+        print(line[9:])
+        ans = input('Answer:')
+        ans = ans.split(':')[1]
+        if ans.lower() == user :
+            score += 1
+            print(score)
 
 
